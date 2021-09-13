@@ -1,4 +1,4 @@
-# Scientific Computing with Python Prjects
+# Scientific Computing with Python Projects
 ### freecodecamp
 
 These are my solutions to the five code challenges in freecodecamp's scientific computing with python projects that can
