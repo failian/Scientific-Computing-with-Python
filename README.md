@@ -10,7 +10,7 @@ The challenges are:
 * [Budget App](Budget%20App/README.md)
 * [Polygon Area Calculator](Polygon%20Area%20Calculator/README.md)
 * [Probability Calculator](Probability%20Calculator/README.md)
-* [Time Calculator](Time Calculator/README.md)
+* [Time Calculator](Time%20Calculator/README.md)
 
 My solutions can be found in:
 * [arithmetic_arranger.py](Arithmetic%20Formatter/arithmetic_arranger.py)
